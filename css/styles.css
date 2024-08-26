@@ -30,12 +30,9 @@ main {
     background-color: #111;
 }
 
-/*header {
-    background-color: #f8d2a0;
-    color: #333333;
-    text-align: center;
-    height: 50px;
-}*/
+.active {
+    background-color: #666;
+}
 
 footer {
     background-color: #000000;
