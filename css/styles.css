@@ -3,12 +3,15 @@ body {
     text-align: justify;
     background-color: #f0f0f0;
     color: #333333;
-    padding: 20px;
+    /*padding: 20px;*/
 }
 
 .header {}
 
 .navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
     list-style-type: none;
     margin: 0;
     padding: 0;
