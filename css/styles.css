@@ -13,10 +13,12 @@ header {
     background-color: #f8d2a0;
     color: #333333;
     text-align: center;
+    height: 50px;
 }
 
 footer {
     background-color: #000000;
     color: #ffffff;
     text-align: center;
+    height: 500px;
 }
