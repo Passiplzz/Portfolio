@@ -9,12 +9,33 @@ main {
     padding: 20px;
 }
 
-header {
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar li a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #111;
+}
+
+/*header {
     background-color: #f8d2a0;
     color: #333333;
     text-align: center;
     height: 50px;
-}
+}*/
 
 footer {
     background-color: #000000;
