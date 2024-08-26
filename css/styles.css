@@ -1,19 +1,22 @@
-main {
+body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     color: #333333;
+}
+
+main {
     text-align: justify;
     padding: 20px;
 }
+
 header {
     background-color: #f8d2a0;
     color: #333333;
-    font-family: Arial, sans-serif;
     text-align: center;
 }
+
 footer {
     background-color: #000000;
     color: #ffffff;
-    font-family: Arial, sans-serif;
     text-align: center;
 }
