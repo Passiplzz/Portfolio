@@ -4,7 +4,6 @@ body {
     background-color: #f0f0f0;
     color: #333333;
     padding: 0;
-    /*padding: 20px;*/
 }
 
 .header {}
@@ -35,6 +34,11 @@ body {
 
 .navbar-active {
     background-color: #666;
+}
+
+.main {
+    padding: 20px;
+    margin-top: 30px;
 }
 
 .footer {
