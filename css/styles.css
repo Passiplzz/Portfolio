@@ -12,7 +12,12 @@ body {
     margin: 0;
 }
 
-.header {}
+.header {
+    background-color: #733F3F;
+    color: #ffffff;
+    text-align: center;
+    height: 25px;
+}
 
 .navbar {
     position: fixed;
@@ -49,9 +54,9 @@ body {
 
 .footer {
     background-color: #333;
-    color: #ffffff;
+    color: #3F8854;
     text-align: center;
-    height: 250px;
+    height: 200px;
 }
 
 .button {}
