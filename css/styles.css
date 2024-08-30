@@ -4,28 +4,29 @@
 /* #733F3F secundario */
 /* #3F8854 terciario */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial;
+    padding: 10px;
+    /*margin: 0;*/
     text-align: justify;
     background-color: #f0f0f0;
     color: #333333;
-    padding: 0;
-    margin: 0;
 }
 
 .header {
+    text-align: center;
+    padding: 30px;
     background-color: #733F3F;
     color: #ffffff;
-    text-align: center;
-    height: 25px;
+    /*height: 25px;*/
 }
 
 .navbar {
-    position: fixed;
+    /*position: fixed;
     top: 0;
     width: 100%;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0;*/
     overflow: hidden;
     background-color: #333;
 }
@@ -53,10 +54,12 @@ body {
 }
 
 .footer {
+    padding: 20px;
+    text-align: center;
     background-color: ##3F8854;
     color: #ffffff;
-    text-align: center;
-    height: 200px;
+    margin-top: 20px;
+    /*height: 200px;*/
 }
 
 .button {}
